@@ -13,12 +13,12 @@ Features
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,pnpm)](https://skillicons.dev)
 
 ## Prerequisites
 
 - Node.js
-- npm
+- pnpm
 - Git
 
 ## Getting Started
@@ -30,11 +30,11 @@ Features
    ```
 2. Install dependencies:
    ```bash
-    npm install
+    pnpm install
    ```
 3. Start the server:
    ```bash
-    npm run dev
+    pnpm run dev
    ```
 4. The API will be available at http://localhost:3000.
 5. To test the csv parser run `node csv-stream.js` with the api running.
